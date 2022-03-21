@@ -1,0 +1,11 @@
+Sample	total_passed	total_failed	secondary_passed	secondary_failed	supplementary_passed	supplementary_failed	duplicates_passed	duplicates_failed	mapped_passed	mapped_failed	mapped_passed_pct	mapped_failed_pct	paired in sequencing_passed	paired in sequencing_failed	read1_passed	read1_failed	read2_passed	read2_failed	properly paired_passed	properly paired_failed	properly paired_passed_pct	properly paired_failed_pct	with itself and mate mapped_passed	with itself and mate mapped_failed	singletons_passed	singletons_failed	singletons_passed_pct	singletons_failed_pct	with mate mapped to a different chr_passed	with mate mapped to a different chr_failed	with mate mapped to a different chr (mapQ >= 5)_passed	with mate mapped to a different chr (mapQ >= 5)_failed	flagstat_total
+Tg_REP1	23115172	0	6472181	0	0	0	10140228	0	23115172	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	23115172
+Tg_REP2	61687369	0	17444406	0	0	0	31873179	0	61687369	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	61687369
+Tg_REP3	75922082	0	20847605	0	0	0	40200863	0	75922082	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	75922082
+Tg_REP4	228556028	0	65798196	0	0	0	136830617	0	228556028	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	228556028
+Tg_REP5	30121288	0	8712088	0	0	0	13950361	0	30121288	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	30121288
+control_REP1	75342859	0	21562228	0	0	0	39954506	0	75342859	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	75342859
+control_REP2	36030946	0	10337370	0	0	0	17408760	0	36030946	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	36030946
+control_REP3	171857393	0	48522120	0	0	0	101620418	0	171857393	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	171857393
+control_REP4	31097943	0	8960290	0	0	0	14269678	0	31097943	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	31097943
+control_REP5	27825785	0	8122301	0	0	0	12639810	0	27825785	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	27825785

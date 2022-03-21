@@ -1,0 +1,11 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+Tg_REP1	Tg_REP1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	16966858.0	0.0	50.0	47.0	43.17384756379203	50.0	pass	pass	pass	fail	pass	pass	pass	fail	pass	pass
+Tg_REP2	Tg_REP2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	45079548.0	0.0	50.0	47.0	30.46055715831706	50.0	pass	pass	pass	fail	pass	pass	pass	fail	pass	pass
+Tg_REP3	Tg_REP3.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	55821464.0	0.0	50.0	47.0	32.090420671201144	50.0	pass	pass	pass	fail	pass	pass	pass	fail	pass	pass
+Tg_REP4	Tg_REP4.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	164009922.0	0.0	50.0	47.0	20.357882645856808	50.0	pass	pass	pass	fail	pass	pass	pass	fail	pass	pass
+Tg_REP5	Tg_REP5.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	21845933.0	0.0	50.0	47.0	39.62314043878709	50.0	pass	pass	pass	fail	pass	pass	pass	fail	warn	pass
+control_REP1	control_REP1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	54493470.0	0.0	50.0	47.0	31.213883523988212	50.0	pass	pass	pass	fail	pass	pass	pass	fail	pass	pass
+control_REP2	control_REP2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	26107063.0	0.0	50.0	47.0	37.86428418130386	50.0	pass	pass	pass	fail	pass	pass	pass	fail	pass	pass
+control_REP3	control_REP3.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	124464785.0	0.0	50.0	47.0	22.986961613276318	50.0	pass	pass	pass	fail	pass	pass	pass	fail	pass	pass
+control_REP4	control_REP4.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	22400112.0	0.0	50.0	47.0	40.60084526943367	50.0	pass	pass	pass	fail	pass	pass	pass	fail	pass	pass
+control_REP5	control_REP5.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	20015644.0	0.0	50.0	48.0	41.36234498953803	50.0	pass	pass	pass	fail	pass	pass	pass	fail	pass	pass

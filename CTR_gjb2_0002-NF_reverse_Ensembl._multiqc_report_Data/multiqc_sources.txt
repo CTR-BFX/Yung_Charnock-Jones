@@ -1,0 +1,171 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/picard/markduplicates/Tg_REP1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/picard/markduplicates/control_REP5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/picard/markduplicates/control_REP3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/picard/markduplicates/Tg_REP5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/picard/markduplicates/Tg_REP4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/picard/markduplicates/Tg_REP3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/picard/markduplicates/control_REP1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/picard/markduplicates/Tg_REP2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/picard/markduplicates/control_REP2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/picard/markduplicates/control_REP4.markdup.sorted.MarkDuplicates.metrics.txt
+Preseq	all_sections	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/preseq/control_REP3.ccurve.txt
+Preseq	all_sections	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/preseq/control_REP4.ccurve.txt
+Preseq	all_sections	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/preseq/control_REP2.ccurve.txt
+Preseq	all_sections	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/preseq/Tg_REP2.ccurve.txt
+Preseq	all_sections	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/preseq/Tg_REP1.ccurve.txt
+Preseq	all_sections	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/preseq/Tg_REP5.ccurve.txt
+Preseq	all_sections	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/preseq/Tg_REP4.ccurve.txt
+Preseq	all_sections	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/preseq/Tg_REP3.ccurve.txt
+Preseq	all_sections	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/preseq/control_REP5.ccurve.txt
+Preseq	all_sections	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/preseq/control_REP1.ccurve.txt
+QualiMap	rna_genome_results	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/control_REP4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/control_REP5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/control_REP1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/control_REP3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/Tg_REP4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/Tg_REP5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/control_REP2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/Tg_REP3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/Tg_REP1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/Tg_REP2/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/control_REP4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/control_REP5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/control_REP1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/control_REP3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/Tg_REP4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/Tg_REP5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/control_REP2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/Tg_REP3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/Tg_REP1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/qualimap/Tg_REP2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_distribution/Tg_REP1.read_distribution.txt
+RSeQC	read_distribution	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_distribution/control_REP1.read_distribution.txt
+RSeQC	read_distribution	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_distribution/Tg_REP2.read_distribution.txt
+RSeQC	read_distribution	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_distribution/Tg_REP3.read_distribution.txt
+RSeQC	read_distribution	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_distribution/control_REP4.read_distribution.txt
+RSeQC	read_distribution	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_distribution/Tg_REP4.read_distribution.txt
+RSeQC	read_distribution	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_distribution/Tg_REP5.read_distribution.txt
+RSeQC	read_distribution	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_distribution/control_REP2.read_distribution.txt
+RSeQC	read_distribution	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_distribution/control_REP3.read_distribution.txt
+RSeQC	read_distribution	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_distribution/control_REP5.read_distribution.txt
+RSeQC	read_duplication	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_duplication/control_REP1.pos.DupRate.xls
+RSeQC	read_duplication	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_duplication/control_REP2.pos.DupRate.xls
+RSeQC	read_duplication	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_duplication/Tg_REP1.pos.DupRate.xls
+RSeQC	read_duplication	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_duplication/control_REP4.pos.DupRate.xls
+RSeQC	read_duplication	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_duplication/control_REP3.pos.DupRate.xls
+RSeQC	read_duplication	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_duplication/control_REP5.pos.DupRate.xls
+RSeQC	read_duplication	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_duplication/Tg_REP3.pos.DupRate.xls
+RSeQC	read_duplication	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_duplication/Tg_REP4.pos.DupRate.xls
+RSeQC	read_duplication	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_duplication/Tg_REP2.pos.DupRate.xls
+RSeQC	read_duplication	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/read_duplication/Tg_REP5.pos.DupRate.xls
+RSeQC	junction_annotation	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_annotation/control_REP2.junction_annotation.log
+RSeQC	junction_annotation	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_annotation/Tg_REP2.junction_annotation.log
+RSeQC	junction_annotation	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_annotation/control_REP3.junction_annotation.log
+RSeQC	junction_annotation	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_annotation/Tg_REP4.junction_annotation.log
+RSeQC	junction_annotation	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_annotation/control_REP4.junction_annotation.log
+RSeQC	junction_annotation	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_annotation/Tg_REP1.junction_annotation.log
+RSeQC	junction_annotation	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_annotation/control_REP5.junction_annotation.log
+RSeQC	junction_annotation	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_annotation/Tg_REP5.junction_annotation.log
+RSeQC	junction_annotation	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_annotation/Tg_REP3.junction_annotation.log
+RSeQC	junction_annotation	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_annotation/control_REP1.junction_annotation.log
+RSeQC	junction_saturation	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_saturation/control_REP2.junctionSaturation_plot.r
+RSeQC	junction_saturation	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_saturation/Tg_REP1.junctionSaturation_plot.r
+RSeQC	junction_saturation	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_saturation/Tg_REP3.junctionSaturation_plot.r
+RSeQC	junction_saturation	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_saturation/Tg_REP4.junctionSaturation_plot.r
+RSeQC	junction_saturation	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_saturation/control_REP4.junctionSaturation_plot.r
+RSeQC	junction_saturation	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_saturation/control_REP5.junctionSaturation_plot.r
+RSeQC	junction_saturation	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_saturation/control_REP3.junctionSaturation_plot.r
+RSeQC	junction_saturation	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_saturation/control_REP1.junctionSaturation_plot.r
+RSeQC	junction_saturation	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_saturation/Tg_REP5.junctionSaturation_plot.r
+RSeQC	junction_saturation	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/junction_saturation/Tg_REP2.junctionSaturation_plot.r
+RSeQC	infer_experiment	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/infer_experiment/control_REP2.infer_experiment.txt
+RSeQC	infer_experiment	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/infer_experiment/Tg_REP3.infer_experiment.txt
+RSeQC	infer_experiment	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/infer_experiment/control_REP1.infer_experiment.txt
+RSeQC	infer_experiment	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/infer_experiment/Tg_REP1.infer_experiment.txt
+RSeQC	infer_experiment	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/infer_experiment/control_REP4.infer_experiment.txt
+RSeQC	infer_experiment	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/infer_experiment/Tg_REP5.infer_experiment.txt
+RSeQC	infer_experiment	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/infer_experiment/control_REP5.infer_experiment.txt
+RSeQC	infer_experiment	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/infer_experiment/control_REP3.infer_experiment.txt
+RSeQC	infer_experiment	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/infer_experiment/Tg_REP2.infer_experiment.txt
+RSeQC	infer_experiment	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/infer_experiment/Tg_REP4.infer_experiment.txt
+RSeQC	bam_stat	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/bam_stat/control_REP2.bam_stat.txt
+RSeQC	bam_stat	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/bam_stat/control_REP3.bam_stat.txt
+RSeQC	bam_stat	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/bam_stat/Tg_REP3.bam_stat.txt
+RSeQC	bam_stat	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/bam_stat/control_REP5.bam_stat.txt
+RSeQC	bam_stat	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/bam_stat/control_REP4.bam_stat.txt
+RSeQC	bam_stat	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/bam_stat/Tg_REP5.bam_stat.txt
+RSeQC	bam_stat	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/bam_stat/Tg_REP1.bam_stat.txt
+RSeQC	bam_stat	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/bam_stat/control_REP1.bam_stat.txt
+RSeQC	bam_stat	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/bam_stat/Tg_REP4.bam_stat.txt
+RSeQC	bam_stat	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/rseqc/bam_stat/Tg_REP2.bam_stat.txt
+Samtools	stats	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/stats/control_REP5.markdup.sorted.bam.stats
+Samtools	stats	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/stats/Tg_REP3.markdup.sorted.bam.stats
+Samtools	stats	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/stats/Tg_REP4.markdup.sorted.bam.stats
+Samtools	stats	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/stats/control_REP3.markdup.sorted.bam.stats
+Samtools	stats	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/stats/control_REP1.markdup.sorted.bam.stats
+Samtools	stats	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/stats/control_REP4.markdup.sorted.bam.stats
+Samtools	stats	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/stats/Tg_REP1.markdup.sorted.bam.stats
+Samtools	stats	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/stats/Tg_REP2.markdup.sorted.bam.stats
+Samtools	stats	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/stats/Tg_REP5.markdup.sorted.bam.stats
+Samtools	stats	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/stats/control_REP2.markdup.sorted.bam.stats
+Samtools	flagstat	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/flagstat/Tg_REP5.markdup.sorted.bam.flagstat
+Samtools	flagstat	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/flagstat/Tg_REP3.markdup.sorted.bam.flagstat
+Samtools	flagstat	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/flagstat/Tg_REP4.markdup.sorted.bam.flagstat
+Samtools	flagstat	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/flagstat/control_REP3.markdup.sorted.bam.flagstat
+Samtools	flagstat	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/flagstat/Tg_REP2.markdup.sorted.bam.flagstat
+Samtools	flagstat	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/flagstat/Tg_REP1.markdup.sorted.bam.flagstat
+Samtools	flagstat	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/flagstat/control_REP5.markdup.sorted.bam.flagstat
+Samtools	flagstat	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/flagstat/control_REP2.markdup.sorted.bam.flagstat
+Samtools	flagstat	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/flagstat/control_REP4.markdup.sorted.bam.flagstat
+Samtools	flagstat	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/flagstat/control_REP1.markdup.sorted.bam.flagstat
+Samtools	idxstats	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/idxstats/control_REP4.markdup.sorted.bam.idxstats
+Samtools	idxstats	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/idxstats/Tg_REP3.markdup.sorted.bam.idxstats
+Samtools	idxstats	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/idxstats/control_REP3.markdup.sorted.bam.idxstats
+Samtools	idxstats	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/idxstats/Tg_REP4.markdup.sorted.bam.idxstats
+Samtools	idxstats	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/idxstats/control_REP5.markdup.sorted.bam.idxstats
+Samtools	idxstats	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/idxstats/control_REP2.markdup.sorted.bam.idxstats
+Samtools	idxstats	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/idxstats/Tg_REP1.markdup.sorted.bam.idxstats
+Samtools	idxstats	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/idxstats/Tg_REP2.markdup.sorted.bam.idxstats
+Samtools	idxstats	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/idxstats/Tg_REP5.markdup.sorted.bam.idxstats
+Samtools	idxstats	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/samtools/idxstats/control_REP1.markdup.sorted.bam.idxstats
+STAR	SummaryLog	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/star/control_REP5.Log.final.out
+STAR	SummaryLog	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/star/Tg_REP3.Log.final.out
+STAR	SummaryLog	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/star/control_REP3.Log.final.out
+STAR	SummaryLog	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/star/control_REP4.Log.final.out
+STAR	SummaryLog	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/star/Tg_REP5.Log.final.out
+STAR	SummaryLog	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/star/Tg_REP2.Log.final.out
+STAR	SummaryLog	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/star/control_REP1.Log.final.out
+STAR	SummaryLog	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/star/Tg_REP4.Log.final.out
+STAR	SummaryLog	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/star/Tg_REP1.Log.final.out
+STAR	SummaryLog	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/star/control_REP2.Log.final.out
+FastQC (raw)	all_sections	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/fastqc/Tg_REP3_fastqc.zip
+FastQC (raw)	all_sections	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/fastqc/Tg_REP4_fastqc.zip
+FastQC (raw)	all_sections	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/fastqc/Tg_REP1_fastqc.zip
+FastQC (raw)	all_sections	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/fastqc/Tg_REP5_fastqc.zip
+FastQC (raw)	all_sections	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/fastqc/control_REP5_fastqc.zip
+FastQC (raw)	all_sections	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/fastqc/control_REP4_fastqc.zip
+FastQC (raw)	all_sections	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/fastqc/control_REP3_fastqc.zip
+FastQC (raw)	all_sections	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/fastqc/control_REP2_fastqc.zip
+FastQC (raw)	all_sections	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/fastqc/control_REP1_fastqc.zip
+FastQC (raw)	all_sections	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/fastqc/Tg_REP2_fastqc.zip
+Cutadapt	all_sections	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/control_REP3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/control_REP4.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/Tg_REP2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/Tg_REP5.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/control_REP5.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/Tg_REP3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/control_REP2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/control_REP1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/Tg_REP4.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/Tg_REP1.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	control_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/fastqc/control_REP4_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	Tg_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/fastqc/Tg_REP3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	control_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/fastqc/control_REP5_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	Tg_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/fastqc/Tg_REP1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	control_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/fastqc/control_REP2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	Tg_REP5	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/fastqc/Tg_REP5_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	Tg_REP2	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/fastqc/Tg_REP2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	Tg_REP4	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/fastqc/Tg_REP4_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	control_REP3	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/fastqc/control_REP3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	control_REP1	/rds/project/rds-ZQgmtPF01rg/CTR-Projects/CTR_gjb2_0002/work/b2/d474c8a0e41103dcd98b06ecd496be/trimgalore/fastqc/control_REP1_trimmed_fastqc.zip
