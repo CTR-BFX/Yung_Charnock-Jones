@@ -60,7 +60,7 @@ Further analysis to show the relationship between DEGs and gene ontology interes
 nextflow (version 21.05.0.edge) nf-core/rnaseq (version 3.2) "star_salmon" pipeline. <br>
 The sampleTable input for nextflow is
 
-SampleTable_summary_NF_reverse.csv [[CSV](Figures_Tables/SampleTable_summary_NF_reverse.csv)]
+SampleTable_summary_NF_reverse.csv [[CSV](SampleTable_summary_NF_reverse.csv)]
 
 ```shell
  nextflow run nf-core/rnaseq -bg -profile singularity -r 3.2 --singleEnd \
