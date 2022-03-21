@@ -113,7 +113,7 @@ SFig3-3_GSEA3_Fig_Heatmap.pdf | [[PDF](Figures_Tables/SFig3-3_GSEA3_Fig_Heatmap.
 ### All tables have been merged to a xlsx file and method below
 | Tables       | Downloads            |
 --------       |  --------------------|
-Combined supplementary tables.xlsx |[[XLSX](Figures_Tables/Combined supplementary tables.xlsx)]|
+Combined_supplementary_tables.xlsx |[[XLSX](Figures_Tables/Combined_supplementary_tables.xlsx)]|
 
 
 
